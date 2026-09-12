@@ -1,16 +1,20 @@
-## Hi there 👋
+## I like cats ... and pangolins
 
-<!--
-**Hashikono/hashikono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
+**JavaScript** (main) · Java · Python · C++ · PHP · MicroPython · PyQt6 · Arduino
 
-Here are some ideas to get you started:
+### Also Familiar With
+Scratch · MIT App Inventor · LabVIEW (Mindstorms) · Brainfuck · Duckyscript · Godot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Markup & Data
+HTML · CSS · JSON · XML
+
+-----
+
+### Languages
+- **Bahasa Indonesia** — Native
+- **English** — Fluent
+- **Japanese** — 4 years · JLPT N[?]
+  - EF Language Program (2025 · 2 months · B1)
+  - EF Language Program (2026 · 3 weeks · B1–B2)
+- **Chinese (Mandarin)** — 3 years · Mandarin II

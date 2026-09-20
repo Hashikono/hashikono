@@ -28,3 +28,8 @@ HTML · CSS · JSON · XML
 | **English** | Fluent | — |
 | **Japanese** | JLPT N[?] | 4 years · EF Language Program (2025 · 2 months · B1)<br>EF Language Program (2026 · 3 weeks · B1–B2) |
 | **Chinese (Mandarin)** | Mandarin II | 3 years |
+
+---
+
+はい、「はしこのつ」は「箸を使いがちな子の津」の意味です。
+「どうして」というのはあまり知らない :>

@@ -14,7 +14,7 @@ Scratch · MIT App Inventor · LabVIEW *(Mindstorms)* · Brainfuck · Duckyscrip
 
 HTML · CSS · JSON · XML
 
-##### Hack Club member since 2025 :>
+#### Hack Club member since 2025 :>
 
 ---
 

@@ -1,4 +1,4 @@
-## I like cats ... and pangolins
+## 猫好き...
 
 ---
 
@@ -14,13 +14,15 @@ Scratch · MIT App Inventor · LabVIEW *(Mindstorms)* · Brainfuck · Duckyscrip
 
 HTML · CSS · JSON · XML
 
+### Hack Club member since 2025 :>
+
 ---
 
 ### Spoken Languages
 
 | Language | Level | Details |
 |---|---|---|
-| **Bahasa Indonesia** | Native | Home language |
+| **Bahasa Indonesia** | ? | Home language / understandable |
 | **English** | Fluent | — |
 | **Japanese** | JLPT N[?] | 4 years · EF Language Program (2025 · 2 months · B1)<br>EF Language Program (2026 · 3 weeks · B1–B2) |
 | **Chinese (Mandarin)** | Mandarin II | 3 years |

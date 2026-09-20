@@ -8,7 +8,7 @@
 
 ### Also Familiar With
 
-Scratch · MIT App Inventor · LabVIEW *(Mindstorms)* · Brainfuck · Duckyscript · Godot
+Scratch · MIT App Inventor · LabVIEW *(Mindstorms)* · Brainf· Duckyscript · Godot
 
 ### Markup & Data
 

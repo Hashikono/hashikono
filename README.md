@@ -32,5 +32,7 @@ HTML · CSS · JSON · XML
 ---
 <p align = "center">
 はい、「はしこのつ」は「箸を使いがちな子の津」の意味です。
+</p>
+<p align = "center">
 「どうして」というのはあまり知らない :>
 </p>

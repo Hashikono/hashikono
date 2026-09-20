@@ -8,11 +8,13 @@
 
 ### Also Familiar With
 
-Scratch · MIT App Inventor · LabVIEW *(Mindstorms)* · Brainf· Duckyscript · Godot
+Scratch · MIT App Inventor · LabVIEW *(Mindstorms)* · Brainf · Duckyscript · Godot
 
 ### Markup & Data
 
 HTML · CSS · JSON · XML
+
+---
 
 #### Hack Club member since 2025 :>
 

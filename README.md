@@ -30,6 +30,7 @@ HTML · CSS · JSON · XML
 | **Chinese (Mandarin)** | Mandarin II | 3 years |
 
 ---
-
+<p align = "center">
 はい、「はしこのつ」は「箸を使いがちな子の津」の意味です。
 「どうして」というのはあまり知らない :>
+</p>

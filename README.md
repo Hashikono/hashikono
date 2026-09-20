@@ -15,9 +15,7 @@ Scratch · MIT App Inventor · LabVIEW *(Mindstorms)* · Brainf · Duckyscript �
 HTML · CSS · JSON · XML
 
 ---
-
 #### Hack Club member since 2025 :>
-
 ---
 
 ### Spoken Languages

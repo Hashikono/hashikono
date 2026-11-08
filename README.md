@@ -8,7 +8,7 @@
 
 ### Also Familiar With
 
-Scratch · MIT App Inventor · LabVIEW *(Mindstorms)* · Brainf · Duckyscript · Godot
+ MIT App Inventor · LabVIEW *(Mindstorms)* · Brainf · Duckyscript · Godot · Arduino
 
 ### Markup & Data
 
